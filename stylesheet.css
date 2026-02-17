@@ -1,0 +1,118 @@
+ #nav {
+        background: #87CDFF;  
+        overflow: auto; 
+        border-radius: 10px;
+        }
+    #nav p {
+        float: right;
+        padding: 15px;
+        background: #FFFFFF; 
+        margin-right: 15px;
+        border-radius: 10px;
+        }
+    #nav h1 {
+        float: left;
+        }   
+
+    #nav p:hover {
+        background: #DDF1FF; 
+        }
+        
+    body {
+  background-color: #FFFFFF;
+     }
+    p { 
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #92BEDD;
+     }
+
+    h1 {
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #70B1E0;
+  margin: 0px;
+  margin-top: 20px;
+  margin-left: 50px;
+
+      }
+    h5 {
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #C9DEE5; 
+  margin-right: 0px 
+
+      }
+    h4 {
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #9ED8FF; 
+  margin-right: 0px      
+      }
+    h3 {
+  float: right;
+  font-family: Tahoma, Verdana, sans-serif;
+  color: #9ED8FF;  
+  padding: 0px;    
+  margin: 0px;
+  margin-bottom: 10px;
+      }
+    a:link {
+  color:#9ED8FF;
+  font-family: Tahoma, Verdana, sans-serif;
+      }
+    a:visited {
+  color: #9ACAEA;
+  font-family: Tahoma, Verdana, sans-serif;
+      }
+
+.textCont {
+  display: flex;
+  background-color: none;
+  justify-content: space-between;
+}
+
+.textCont div {
+  background-color: none;
+  margin: 10px;
+  margin-top: 0px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.nextPageCont {
+  display: flex;
+  background-color: none;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin-top: -100px;
+  margin-left: 580px;
+  margin-right: 580px;
+}
+
+.nextPageCont div {
+  background-color: none;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 55px;
+  margin-left: -20px;
+
+  padding: 10px;
+  font-size: 30px;
+  float: ;
+
+.styled {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  font-family: Tahoma, Verdana, sans-serif;
+  text-align: center;
+  color: #FFFFFF;
+  border-radius: 10px;
+  background-color: #99D9FF;
+
+}
+
+.styled:hover {
+  background-color: #C9E4FF;
+}
+
+}
+
